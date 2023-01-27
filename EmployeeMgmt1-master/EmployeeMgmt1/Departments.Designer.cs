@@ -238,7 +238,7 @@
             this.EditBtn.Size = new System.Drawing.Size(117, 35);
             this.EditBtn.TabIndex = 73; 
             this.EditBtn.Text = "Update"; 
-            this.EditBtn.UseVisualStyleBackColor = false;
+            this.EditBtn.UseVisualStyleBackColor = false; 
             this.EditBtn.Click += new System.EventHandler(this.EditBtn_Click);
             // 
             // pictureBox1
