@@ -85,7 +85,7 @@ namespace EmployeeMgmt1
             this.AddBtn.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.AddBtn.ForeColor = System.Drawing.Color.White; 
             this.AddBtn.Location = new System.Drawing.Point(52, 547); 
-            this.AddBtn.Name = "AddBtn";
+            this.AddBtn.Name = "AddBtn"; 
             this.AddBtn.Size = new System.Drawing.Size(117, 35);
             this.AddBtn.TabIndex = 36;
             this.AddBtn.Text = "Add";
