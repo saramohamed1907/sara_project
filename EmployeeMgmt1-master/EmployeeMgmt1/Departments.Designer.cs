@@ -226,7 +226,7 @@
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(369, 25); 
             this.label1.TabIndex = 0;
-            this.label1.Text = "Employee mangement system version 10";
+            this.label1.Text = "Employee mangement system version 10"; 
             // 
             // EditBtn
             // 
