@@ -189,7 +189,7 @@
             this.EmpLbl.ForeColor = System.Drawing.Color.Teal; 
             this.EmpLbl.Location = new System.Drawing.Point(299, 125); 
             this.EmpLbl.Name = "EmpLbl"; 
-            this.EmpLbl.Size = new System.Drawing.Size(107, 25);
+            this.EmpLbl.Size = new System.Drawing.Size(107, 25); 
             this.EmpLbl.TabIndex = 75;
             this.EmpLbl.Text = "Employee";
             this.EmpLbl.Click += new System.EventHandler(this.EmpLbl_Click);
