@@ -205,7 +205,7 @@
             this.pictureBox2.TabIndex = 74;
             this.pictureBox2.TabStop = false; 
             // 
-            // AddBtn
+            // AddBtn 
             // 
             this.AddBtn.BackColor = System.Drawing.Color.Teal;
             this.AddBtn.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
