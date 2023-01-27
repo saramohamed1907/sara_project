@@ -198,7 +198,7 @@
             // 
             this.pictureBox2.BackColor = System.Drawing.Color.Teal; 
             this.pictureBox2.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox2.Image"))); 
-            this.pictureBox2.Location = new System.Drawing.Point(251, 122);
+            this.pictureBox2.Location = new System.Drawing.Point(251, 122); 
             this.pictureBox2.Name = "pictureBox2";
             this.pictureBox2.Size = new System.Drawing.Size(42, 28);
             this.pictureBox2.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
