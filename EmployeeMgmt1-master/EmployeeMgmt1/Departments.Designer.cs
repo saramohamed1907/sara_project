@@ -126,7 +126,7 @@
             this.label9.Text = "Logout"; 
             this.label9.Click += new System.EventHandler(this.label9_Click); 
             // 
-            // pictureBox5
+            // pictureBox5 
             // 
             this.pictureBox5.BackColor = System.Drawing.Color.White;
             this.pictureBox5.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox5.Image")));
