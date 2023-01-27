@@ -216,7 +216,7 @@
             this.AddBtn.TabIndex = 72; 
             this.AddBtn.Text = "Add"; 
             this.AddBtn.UseVisualStyleBackColor = false; 
-            this.AddBtn.Click += new System.EventHandler(this.AddBtn_Click);
+            this.AddBtn.Click += new System.EventHandler(this.AddBtn_Click); 
             // 
             // label1
             // 
