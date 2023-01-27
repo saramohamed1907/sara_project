@@ -103,7 +103,7 @@ namespace EmployeeMgmt1
             this.pictureBox1.TabIndex = 31; 
             this.pictureBox1.TabStop = false; 
             // 
-            // panel2
+            // panel2 
             // 
             this.panel2.BackColor = System.Drawing.Color.Teal;
             this.panel2.Dock = System.Windows.Forms.DockStyle.Bottom;
