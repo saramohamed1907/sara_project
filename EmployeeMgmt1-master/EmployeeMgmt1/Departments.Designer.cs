@@ -167,7 +167,7 @@
             this.label11.ForeColor = System.Drawing.Color.Teal; 
             this.label11.Location = new System.Drawing.Point(499, 125);  
             this.label11.Name = "label11"; 
-            this.label11.Size = new System.Drawing.Size(134, 25);
+            this.label11.Size = new System.Drawing.Size(134, 25); 
             this.label11.TabIndex = 77;
             this.label11.Text = "Departments";
             // 
