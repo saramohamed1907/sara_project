@@ -135,7 +135,7 @@
             this.pictureBox5.Size = new System.Drawing.Size(42, 28); 
             this.pictureBox5.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage; 
             this.pictureBox5.TabIndex = 80; 
-            this.pictureBox5.TabStop = false;
+            this.pictureBox5.TabStop = false; 
             // 
             // SalaryLbl
             // 
