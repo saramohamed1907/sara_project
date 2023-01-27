@@ -121,7 +121,7 @@
             this.label9.ForeColor = System.Drawing.Color.Teal; 
             this.label9.Location = new System.Drawing.Point(892, 125); 
             this.label9.Name = "label9";
-            this.label9.Size = new System.Drawing.Size(78, 25);
+            this.label9.Size = new System.Drawing.Size(78, 25); 
             this.label9.TabIndex = 81;
             this.label9.Text = "Logout";
             this.label9.Click += new System.EventHandler(this.label9_Click);
