@@ -218,7 +218,7 @@
             this.AddBtn.UseVisualStyleBackColor = false; 
             this.AddBtn.Click += new System.EventHandler(this.AddBtn_Click); 
             // 
-            // label1
+            // label1 
             // 
             this.label1.AutoSize = true;
             this.label1.ForeColor = System.Drawing.Color.White;
