@@ -315,7 +315,7 @@
             // DeleteBtn 
             // 
             this.DeleteBtn.BackColor = System.Drawing.Color.Coral; 
-            this.DeleteBtn.Location = new System.Drawing.Point(134, 329);
+            this.DeleteBtn.Location = new System.Drawing.Point(134, 329); 
             this.DeleteBtn.Name = "DeleteBtn";
             this.DeleteBtn.Size = new System.Drawing.Size(102, 38);
             this.DeleteBtn.TabIndex = 84;
