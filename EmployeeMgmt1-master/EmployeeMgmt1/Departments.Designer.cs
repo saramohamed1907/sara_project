@@ -267,7 +267,7 @@
             this.DepNameTb.Location = new System.Drawing.Point(32, 206); 
             this.DepNameTb.Name = "DepNameTb"; 
             this.DepNameTb.Size = new System.Drawing.Size(304, 30); 
-            this.DepNameTb.TabIndex = 59;
+            this.DepNameTb.TabIndex = 59; 
             // 
             // label6
             // 
