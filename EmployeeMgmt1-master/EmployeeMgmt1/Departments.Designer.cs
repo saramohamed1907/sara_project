@@ -312,7 +312,7 @@
             this.label3.TabIndex = 83; 
             this.label3.Text = "Department List";
             // 
-            // DeleteBtn
+            // DeleteBtn 
             // 
             this.DeleteBtn.BackColor = System.Drawing.Color.Coral;
             this.DeleteBtn.Location = new System.Drawing.Point(134, 329);
