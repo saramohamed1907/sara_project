@@ -233,7 +233,7 @@
             this.EditBtn.BackColor = System.Drawing.Color.Turquoise; 
             this.EditBtn.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.EditBtn.ForeColor = System.Drawing.Color.Black; 
-            this.EditBtn.Location = new System.Drawing.Point(219, 275);
+            this.EditBtn.Location = new System.Drawing.Point(219, 275); 
             this.EditBtn.Name = "EditBtn";
             this.EditBtn.Size = new System.Drawing.Size(117, 35);
             this.EditBtn.TabIndex = 73;
