@@ -277,7 +277,7 @@
             this.label6.Location = new System.Drawing.Point(27, 178);  
             this.label6.Name = "label6"; 
             this.label6.Size = new System.Drawing.Size(182, 25); 
-            this.label6.TabIndex = 58;
+            this.label6.TabIndex = 58; 
             this.label6.Text = "Department name";
             // 
             // label2
