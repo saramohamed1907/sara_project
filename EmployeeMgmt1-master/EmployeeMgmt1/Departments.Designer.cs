@@ -158,7 +158,7 @@
             this.pictureBox4.Size = new System.Drawing.Size(42, 28); 
             this.pictureBox4.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage; 
             this.pictureBox4.TabIndex = 78; 
-            this.pictureBox4.TabStop = false;
+            this.pictureBox4.TabStop = false; 
             // 
             // label11
             // 
