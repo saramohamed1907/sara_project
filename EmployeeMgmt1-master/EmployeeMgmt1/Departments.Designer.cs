@@ -61,7 +61,7 @@
             this.panel1.SuspendLayout();
             this.SuspendLayout();
             // 
-            // DepList
+            // DepList 
             // 
             dataGridViewCellStyle4.BackColor = System.Drawing.Color.White;
             this.DepList.AlternatingRowsDefaultCellStyle = dataGridViewCellStyle4;
