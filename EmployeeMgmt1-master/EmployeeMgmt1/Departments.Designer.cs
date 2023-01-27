@@ -137,7 +137,7 @@
             this.pictureBox5.TabIndex = 80; 
             this.pictureBox5.TabStop = false; 
             // 
-            // SalaryLbl
+            // SalaryLbl 
             // 
             this.SalaryLbl.AutoSize = true;
             this.SalaryLbl.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
