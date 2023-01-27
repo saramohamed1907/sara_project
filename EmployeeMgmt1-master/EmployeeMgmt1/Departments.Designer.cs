@@ -145,7 +145,7 @@
             this.SalaryLbl.Location = new System.Drawing.Point(722, 125); 
             this.SalaryLbl.Name = "SalaryLbl"; 
             this.SalaryLbl.Size = new System.Drawing.Size(74, 25); 
-            this.SalaryLbl.TabIndex = 79;
+            this.SalaryLbl.TabIndex = 79; 
             this.SalaryLbl.Text = "Salary";
             this.SalaryLbl.Click += new System.EventHandler(this.label10_Click);
             // 
