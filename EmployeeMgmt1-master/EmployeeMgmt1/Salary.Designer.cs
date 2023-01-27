@@ -77,7 +77,7 @@ namespace EmployeeMgmt1
             this.UpdateBtn.Size = new System.Drawing.Size(117, 35); 
             this.UpdateBtn.TabIndex = 37; 
             this.UpdateBtn.Text = "Update"; 
-            this.UpdateBtn.UseVisualStyleBackColor = false;
+            this.UpdateBtn.UseVisualStyleBackColor = false; 
             // 
             // AddBtn
             // 
