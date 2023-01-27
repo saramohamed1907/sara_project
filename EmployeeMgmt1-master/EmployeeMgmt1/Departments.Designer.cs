@@ -309,7 +309,7 @@
             this.label3.Location = new System.Drawing.Point(553, 206); 
             this.label3.Name = "label3"; 
             this.label3.Size = new System.Drawing.Size(148, 25); 
-            this.label3.TabIndex = 83;
+            this.label3.TabIndex = 83; 
             this.label3.Text = "Department List";
             // 
             // DeleteBtn
