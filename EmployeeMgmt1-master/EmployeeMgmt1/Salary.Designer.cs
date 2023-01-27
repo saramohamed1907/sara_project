@@ -67,7 +67,7 @@ namespace EmployeeMgmt1
             ((System.ComponentModel.ISupportInitialize)(this.SalaryList)).BeginInit();
             this.SuspendLayout();
             // 
-            // UpdateBtn
+            // UpdateBtn 
             // 
             this.UpdateBtn.BackColor = System.Drawing.Color.Turquoise;
             this.UpdateBtn.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
