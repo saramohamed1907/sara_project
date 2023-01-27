@@ -182,7 +182,7 @@
             this.pictureBox3.TabIndex = 76; 
             this.pictureBox3.TabStop = false; 
             // 
-            // EmpLbl
+            // EmpLbl 
             // 
             this.EmpLbl.AutoSize = true;
             this.EmpLbl.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
