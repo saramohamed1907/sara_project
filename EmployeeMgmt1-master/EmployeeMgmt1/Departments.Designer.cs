@@ -141,7 +141,7 @@
             // 
             this.SalaryLbl.AutoSize = true; 
             this.SalaryLbl.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.SalaryLbl.ForeColor = System.Drawing.Color.Teal;
+            this.SalaryLbl.ForeColor = System.Drawing.Color.Teal; 
             this.SalaryLbl.Location = new System.Drawing.Point(722, 125);
             this.SalaryLbl.Name = "SalaryLbl";
             this.SalaryLbl.Size = new System.Drawing.Size(74, 25);
