@@ -68,8 +68,8 @@ namespace EmployeeMgmt1
             this.SuspendLayout();
             // 
             // UpdateBtn 
-            // 
-            this.UpdateBtn.BackColor = System.Drawing.Color.Turquoise;
+            //  
+            this.UpdateBtn.BackColor = System.Drawing.Color.Turquoise; 
             this.UpdateBtn.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.UpdateBtn.ForeColor = System.Drawing.Color.Black;
             this.UpdateBtn.Location = new System.Drawing.Point(239, 547);
