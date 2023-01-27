@@ -220,7 +220,7 @@
             // 
             // label1 
             // 
-            this.label1.AutoSize = true;
+            this.label1.AutoSize = true; 
             this.label1.ForeColor = System.Drawing.Color.White;
             this.label1.Location = new System.Drawing.Point(499, 9);
             this.label1.Name = "label1";
