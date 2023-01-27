@@ -121,7 +121,7 @@ namespace EmployeeMgmt1
             this.label5.Name = "label5"; 
             this.label5.Size = new System.Drawing.Size(74, 25); 
             this.label5.TabIndex = 28; 
-            this.label5.Text = "Period";
+            this.label5.Text = "Period"; 
             // 
             // label8
             // 
