@@ -203,7 +203,7 @@
             this.pictureBox2.Size = new System.Drawing.Size(42, 28); 
             this.pictureBox2.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage; 
             this.pictureBox2.TabIndex = 74;
-            this.pictureBox2.TabStop = false;
+            this.pictureBox2.TabStop = false; 
             // 
             // AddBtn
             // 
