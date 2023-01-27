@@ -129,7 +129,7 @@
             // pictureBox5 
             // 
             this.pictureBox5.BackColor = System.Drawing.Color.White; 
-            this.pictureBox5.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox5.Image")));
+            this.pictureBox5.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox5.Image"))); 
             this.pictureBox5.Location = new System.Drawing.Point(844, 122);
             this.pictureBox5.Name = "pictureBox5";
             this.pictureBox5.Size = new System.Drawing.Size(42, 28);
