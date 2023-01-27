@@ -241,7 +241,7 @@
             this.EditBtn.UseVisualStyleBackColor = false; 
             this.EditBtn.Click += new System.EventHandler(this.EditBtn_Click); 
             // 
-            // pictureBox1
+            // pictureBox1 
             // 
             this.pictureBox1.BackColor = System.Drawing.Color.Teal;
             this.pictureBox1.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox1.Image")));
