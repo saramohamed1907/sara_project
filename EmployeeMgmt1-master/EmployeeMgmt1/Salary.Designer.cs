@@ -2,7 +2,7 @@
 
 namespace EmployeeMgmt1
 {
-    partial class Salary
+    partial class Salary 
     {
         /// <summary>
         /// Required designer variable.
