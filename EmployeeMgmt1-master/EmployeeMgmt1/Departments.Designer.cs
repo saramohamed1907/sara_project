@@ -162,7 +162,7 @@
             // 
             // label11 
             // 
-            this.label11.AutoSize = true;
+            this.label11.AutoSize = true; 
             this.label11.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label11.ForeColor = System.Drawing.Color.Teal;
             this.label11.Location = new System.Drawing.Point(499, 125);
