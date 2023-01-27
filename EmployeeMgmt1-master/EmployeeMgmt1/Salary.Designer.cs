@@ -73,7 +73,7 @@ namespace EmployeeMgmt1
             this.UpdateBtn.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.UpdateBtn.ForeColor = System.Drawing.Color.Black; 
             this.UpdateBtn.Location = new System.Drawing.Point(239, 547); 
-            this.UpdateBtn.Name = "UpdateBtn";
+            this.UpdateBtn.Name = "UpdateBtn"; 
             this.UpdateBtn.Size = new System.Drawing.Size(117, 35);
             this.UpdateBtn.TabIndex = 37;
             this.UpdateBtn.Text = "Update";
