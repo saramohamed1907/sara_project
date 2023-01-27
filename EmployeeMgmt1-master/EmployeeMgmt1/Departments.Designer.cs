@@ -192,7 +192,7 @@
             this.EmpLbl.Size = new System.Drawing.Size(107, 25); 
             this.EmpLbl.TabIndex = 75; 
             this.EmpLbl.Text = "Employee"; 
-            this.EmpLbl.Click += new System.EventHandler(this.EmpLbl_Click);
+            this.EmpLbl.Click += new System.EventHandler(this.EmpLbl_Click); 
             // 
             // pictureBox2
             // 
