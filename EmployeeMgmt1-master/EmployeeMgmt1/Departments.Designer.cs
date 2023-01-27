@@ -228,7 +228,7 @@
             this.label1.TabIndex = 0;
             this.label1.Text = "Employee mangement system version 10"; 
             // 
-            // EditBtn
+            // EditBtn 
             // 
             this.EditBtn.BackColor = System.Drawing.Color.Turquoise;
             this.EditBtn.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
