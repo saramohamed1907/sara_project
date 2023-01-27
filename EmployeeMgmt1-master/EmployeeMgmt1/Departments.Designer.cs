@@ -180,7 +180,7 @@
             this.pictureBox3.Size = new System.Drawing.Size(42, 28);
             this.pictureBox3.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;  
             this.pictureBox3.TabIndex = 76; 
-            this.pictureBox3.TabStop = false;
+            this.pictureBox3.TabStop = false; 
             // 
             // EmpLbl
             // 
