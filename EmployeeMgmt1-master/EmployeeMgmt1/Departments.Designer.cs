@@ -149,7 +149,7 @@
             this.SalaryLbl.Text = "Salary"; 
             this.SalaryLbl.Click += new System.EventHandler(this.label10_Click); 
             // 
-            // pictureBox4
+            // pictureBox4 
             // 
             this.pictureBox4.BackColor = System.Drawing.Color.White;
             this.pictureBox4.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox4.Image")));
